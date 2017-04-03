@@ -2,6 +2,7 @@
 title: Test Mathjax
 date: 2017-04-02 21:31:31
 tags: [MathJax]
+cover: /img/mj-logo.svg
 ---
 
 # Formula:
