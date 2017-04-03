@@ -72,3 +72,16 @@ deploy:
   repo: https://github.com/lamfo-unb/lamfo-unb.github.io.git
   branch: master
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+#MATHJAX
+math:
+  engine: 'mathjax' # or 'katex'
+  mathjax:
+    src: custom_mathjax_source
+    config:
+      # MathJax config
+  katex:
+    css: custom_css_source
+    js: custom_js_source # not used
+    config:
+      # KaTeX config
