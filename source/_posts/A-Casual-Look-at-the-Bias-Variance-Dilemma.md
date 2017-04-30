@@ -7,7 +7,7 @@ tags: [statistics,variance]
 author: Peng Yaohao
 ---
 
-A Casual Look at the Bias-Variance Dilemma
+# A Casual Look at the Bias-Variance Dilemma
 
 Making predictions is one of the main ambitions of the human race. One may have the motivation to forecast almost anything from a sports event to the stock price or his girlfriend's mood... But the future is a random variable -- no one really knows how it's gonna be, so any prediction is in essence a "guess". Well, how to guess then? You can simply toss a coin, this is quite convenient, but it certainly does not give the best guess possible. This is where statistics comes to stage, as I define briefly that knowledge field as "the science of guessing".
 
@@ -17,7 +17,9 @@ Think intuitively: even though the future may bring in stuff completely differen
 
 #### What does it mean exactly?
 
-Let's first discuss "bias". It's easy to imagine that in order to accurately predict the future, one must first understand the past well. A predictor that fails to map clearly the characteristics of clearly observed data tends not perform badly for the future. What we call ``bias'' are the deviations between the observed in the past and the predicted by the proposed model -- in short, how well the model is **describing** the observed data.
+Let's first discuss "bias". It's easy to imagine that in order to accurately predict the future, one must first understand the past well. A predictor that fails to map clearly the characteristics of clearly observed data tends not perform badly for the future. What we call "bias" are the deviations between the observed in the past and the predicted by the proposed model -- in short, how well the model is **describing** the observed data.
+
+![alt text](/img/chunk-8.png "Distribution")
 
 It is natural to think that the better the model describes the sample data, the better it is. But this is not true, since the primary purpose is **not** to describe the data, but rather to use those to make predictions (or **inferences**) about the future. This brings us to the "variance" side:
 

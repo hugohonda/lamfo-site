@@ -17,7 +17,9 @@ Pense intuitivamente: por mais que o futuro possa trazer uma coisa completamente
 
 #### O que isso quer dizer?
 
-Vamos discutir primeiro o "viés". É fácil imaginar que, para ser capaz de prever com exatidão o futuro, primeiro é preciso entender bem o passado. Um preditor que não consegue mapear bem as características daquilo que já se observou claramente tende a não se sair bem para o futuro. O que aqui chamamos de ``viés'' são os desvios entre aquilo que se observou no passado e aquilo que se prevê pelo modelo proposto -- em suma, é o quão bem o modelo está **descrevendo** os dados observados.
+Vamos discutir primeiro o "viés". É fácil imaginar que, para ser capaz de prever com exatidão o futuro, primeiro é preciso entender bem o passado. Um preditor que não consegue mapear bem as características daquilo que já se observou claramente tende a não se sair bem para o futuro. O que aqui chamamos de "viés" são os desvios entre aquilo que se observou no passado e aquilo que se prevê pelo modelo proposto -- em suma, é o quão bem o modelo está **descrevendo** os dados observados.
+
+![alt text](/img/chunk-8.png "Distribuições")
 
 É natural pensar que quanto melhor o modelo descreve os dados da amostra, melhor ele é. Porém, isso não é verdade, pois o objetivo primordial **não** é descrever os dados, mas usá-los para fazer previsões (ou **inferências**) sobre o futuro. Isso nos leva para o lado da "variância":
 
