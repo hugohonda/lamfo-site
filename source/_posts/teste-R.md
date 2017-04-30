@@ -9,7 +9,7 @@ cover: /img/ggplot.png
 # Cria um texto cabeçalho
 
 
-algum texto normal aqui seguido e um codigo R:
+texto simple seguido de um codigo em R:
 
 ```R
    myString <- "Hello, World!"

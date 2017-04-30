@@ -8,6 +8,9 @@ subtitle: Laboratório de Aprendizado de Máquina Aplicado a Finanças e Organiz
 description: O Laboratório de Aprendizado de Máquina em Finanças e Organizações (LAMFO) é um centro destinado a desenvolver, aplicar e estudar fenômenos organizacionais nas mais diversas áreas como Marketing, Logística, Administração Pública, Gestão de Pessoas e Finanças.
 author: Pedro Albuquerque
 language: [pt,en]
+i18n:
+  type: [page,post]
+  generator: [index,archive]
 timezone: America/Sao_Paulo
 
 # URL

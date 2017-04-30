@@ -651,3 +651,83 @@
 {"name":"hexo","hostname":"dust","pid":29636,"level":20,"msg":"Rendering post: \u001b[35m2017/03/17/teste-R/index.html\u001b[39m","time":"2017-03-18T04:38:19.597Z","v":0}
 {"name":"hexo","hostname":"dust","pid":29636,"level":30,"msg":"Have a nice day","time":"2017-03-18T04:40:07.076Z","v":0}
 {"name":"hexo","hostname":"dust","pid":29636,"level":20,"msg":"Database saved","time":"2017-03-18T04:40:07.110Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2017-04-30T03:00:39.402Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Working directory: \u001b[35m~/Projects/lamfo-site/\u001b[39m","time":"2017-04-30T03:00:39.404Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Config loaded: \u001b[35m~/Projects/lamfo-site/_config.yml\u001b[39m","time":"2017-04-30T03:00:39.479Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-04-30T03:00:39.494Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-04-30T03:00:39.496Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-04-30T03:00:39.497Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-sitemap\u001b[39m","time":"2017-04-30T03:00:39.499Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-all-minifier\u001b[39m","time":"2017-04-30T03:00:39.727Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-04-30T03:00:39.728Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-04-30T03:00:39.730Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-04-30T03:00:39.735Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-04-30T03:00:39.735Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-mathjax\u001b[39m","time":"2017-04-30T03:00:39.736Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-04-30T03:00:39.739Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-04-30T03:00:39.789Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Loading database.","time":"2017-04-30T03:00:39.797Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":30,"msg":"Start processing","time":"2017-04-30T03:00:39.806Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Theme config loaded.","time":"2017-04-30T03:00:39.876Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2017-04-30T03:00:39.877Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/css/article.styl\u001b[39m","time":"2017-04-30T03:00:39.886Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/css/base.styl\u001b[39m","time":"2017-04-30T03:00:39.886Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/css/mixins.styl\u001b[39m","time":"2017-04-30T03:00:39.886Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/css/style.styl\u001b[39m","time":"2017-04-30T03:00:39.887Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/css/variables.styl\u001b[39m","time":"2017-04-30T03:00:39.887Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/img/favicon.ico\u001b[39m","time":"2017-04-30T03:00:39.887Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/img/ggplot.png\u001b[39m","time":"2017-04-30T03:00:39.887Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/img/mj-logo.svg\u001b[39m","time":"2017-04-30T03:00:39.893Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/archive.ejs\u001b[39m","time":"2017-04-30T03:00:39.910Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/index.ejs\u001b[39m","time":"2017-04-30T03:00:39.910Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/layout.ejs\u001b[39m","time":"2017-04-30T03:00:39.910Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/page.ejs\u001b[39m","time":"2017-04-30T03:00:39.910Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/post.ejs\u001b[39m","time":"2017-04-30T03:00:39.910Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/de.yml\u001b[39m","time":"2017-04-30T03:00:39.929Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/en.yml\u001b[39m","time":"2017-04-30T03:00:39.929Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2017-04-30T03:00:39.929Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/es.yml\u001b[39m","time":"2017-04-30T03:00:39.929Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/no.yml\u001b[39m","time":"2017-04-30T03:00:39.930Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/fr.yml\u001b[39m","time":"2017-04-30T03:00:39.930Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/pl.yml\u001b[39m","time":"2017-04-30T03:00:39.930Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2017-04-30T03:00:39.930Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/pt.yml\u001b[39m","time":"2017-04-30T03:00:39.930Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-CN.yml\u001b[39m","time":"2017-04-30T03:00:39.930Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-TW.yml\u001b[39m","time":"2017-04-30T03:00:39.930Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35m_posts/A-Casual-Look-at-the-Bias-Variance-Dilemma.md\u001b[39m","time":"2017-04-30T03:00:39.933Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35m_posts/Um-Olhar-Descontraido-Sobre-o-Dilema-Vies-Variandia.md\u001b[39m","time":"2017-04-30T03:00:39.936Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35m_posts/teste-R.md\u001b[39m","time":"2017-04-30T03:00:39.941Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35m_posts/Um-Olhar-Descontraido-Sobre-o-Dilema-Vies-Variancia.md\u001b[39m","time":"2017-04-30T03:00:39.941Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/after-footer.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article-archive.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article-categories.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article-full.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article-index.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article-tags.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/comments.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/footer.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/gallery.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/google-analytics.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/head.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/menu.ejs\u001b[39m","time":"2017-04-30T03:00:40.353Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/pagination.ejs\u001b[39m","time":"2017-04-30T03:00:40.354Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/img/home-bg.jpg\u001b[39m","time":"2017-04-30T03:00:40.356Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/img/0026.png\u001b[39m","time":"2017-04-30T03:00:40.362Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Processed: \u001b[35msource/img/debug.log\u001b[39m","time":"2017-04-30T03:00:40.378Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":30,"msg":"update Optimize HTML: /home/jader/Projects/lamfo-site/source/_posts/Um-Olhar-Descontraido-Sobre-o-Dilema-Vies-Variandia.md [ 0.23% saved]","time":"2017-04-30T03:00:40.520Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":30,"msg":"update Optimize HTML: /home/jader/Projects/lamfo-site/source/_posts/teste-R.md [ 0.89% saved]","time":"2017-04-30T03:00:40.522Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":30,"msg":"update Optimize HTML: /home/jader/Projects/lamfo-site/source/_posts/A-Casual-Look-at-the-Bias-Variance-Dilemma.md [ 0.21% saved]","time":"2017-04-30T03:00:40.524Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":30,"msg":"update Optimize HTML: /home/jader/Projects/lamfo-site/source/_posts/Um-Olhar-Descontraido-Sobre-o-Dilema-Vies-Variancia.md [ 0.23% saved]","time":"2017-04-30T03:00:40.528Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2017-04-30T03:00:40.918Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2017-04-30T03:00:40.918Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2017-04-30T03:00:40.918Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2017-04-30T03:00:40.918Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2017-04-30T03:00:40.918Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2017-04-30T03:00:40.919Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2017-04-30T03:00:40.919Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2017-04-30T03:00:40.919Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":30,"msg":"update Optimize IMG: img/mj-logo.svg [ 58.28% saved]","time":"2017-04-30T03:00:41.065Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":30,"msg":"update Optimize IMG: img/ggplot.png [ 24.71% saved]","time":"2017-04-30T03:00:42.618Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":30,"msg":"update Optimize IMG: img/home-bg.jpg [ 48.64% saved]","time":"2017-04-30T03:00:42.655Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":30,"msg":"Bye!","time":"2017-04-30T03:01:13.459Z","v":0}
+{"name":"hexo","hostname":"dust","pid":22071,"level":20,"msg":"Database saved","time":"2017-04-30T03:01:13.489Z","v":0}
